@@ -1,9 +1,9 @@
 h3 {
-    color:red
+    color:rgb(39, 110, 21)
 }
 
 .mtable {
-    background:yellow
+    background:rgb(255, 217, 2)
 }
 
 #main-heading {
@@ -11,7 +11,7 @@ h3 {
 }
 
 #div_1 {
-    background:rgb(116, 45, 129);
+    background:rgb(69, 255, 18);
     text-align: center
 }
 
@@ -26,8 +26,9 @@ form {
 }
 
 #myf {
-    background:rgb(187, 138, 15);
+    background:rgb(0, 255, 8);
     position: relative;
+    text-align: center;
 }
 
 #forem {
@@ -38,14 +39,21 @@ form {
     float:left;
     width: 45%;
     height: 120px;
-    background-color: #d7c81e;
+    background-color: #229168;
     text-align: center;
+    position:relative
 }
 
 .right {
     float:right;
     width: 45%;
     height: 120px;
-    background-color: #b0e10d;
+    background-color: #29b779;
+    text-align: center;
+    position:relative
+}
+
+.clear {
+    clear:none;
     text-align: center;
 }
